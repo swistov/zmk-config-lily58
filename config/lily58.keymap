@@ -21,12 +21,12 @@
 
         left-shift {
             bindings = <&kp LSHFT>;
-            key-positions = <36 52>;
+            key-positions = <51 24>;
         };
 
         right-left {
             bindings = <&kp RSHFT>;
-            key-positions = <55 49>;
+            key-positions = <56 35>;
         };
     };
 
